@@ -1,0 +1,316 @@
+{
+  "thematic_dates": [
+    {
+      "month": 11,
+      "day": 26,
+      "name": "День благодарения",
+      "screenshot": "0_thanks.png"
+    },
+    {
+      "month": 4,
+      "day": 5,
+      "name": "Пасха",
+      "screenshot": "0_easter.png"
+    },
+    {
+      "month": 12,
+      "day": 5,
+      "name": "Ночь Крампуса (Krampusnacht)",
+      "screenshot": "5_12.png"
+    },
+    {
+      "month": 12,
+      "day": 6,
+      "name": "День рождения Сатору Иваты",
+      "screenshot": "6_12.png"
+    },
+    {
+      "month": 12,
+      "day": 23,
+      "name": "Фестивус",
+      "screenshot": "23_12.png"
+    },
+    {
+      "month": 12,
+      "day": 25,
+      "name": "Католическое Рождество",
+      "screenshot": "25_12.png"
+    },
+    {
+      "month": 12,
+      "day": 31,
+      "name": "День принятия решений",
+      "screenshot": "31_12.png"
+    },
+    {
+      "month": 1,
+      "day": 1,
+      "name": "Новый Год",
+      "screenshot": "1_1.png"
+    },
+    {
+      "month": 1,
+      "day": 14,
+      "name": "День «Одень своего питомца»",
+      "screenshot": "14_1.png"
+    },
+    {
+      "month": 1,
+      "day": 16,
+      "name": "День абсолютного ничего",
+      "screenshot": "16_1.png"
+    },
+    {
+      "month": 1,
+      "day": 27,
+      "name": "День Томаса Крэппера",
+      "screenshot": "27_1.png"
+    },
+    {
+      "month": 2,
+      "day": 2,
+      "name": "День сурка",
+      "screenshot": "2_2.png"
+    },
+    {
+      "month": 2,
+      "day": 9,
+      "name": "День зубной боли",
+      "screenshot": "9_2.png"
+    },
+    {
+      "month": 2,
+      "day": 11,
+      "name": "День «Не плачь над разлитым молоком»",
+      "screenshot": "11_2.png"
+    },
+    {
+      "month": 2,
+      "day": 14,
+      "name": "День Святого Валентина",
+      "screenshot": "14_2.png"
+    },
+    {
+      "month": 2,
+      "day": 18,
+      "name": "День батарейки",
+      "screenshot": "18_2.png"
+    },
+    {
+      "month": 3,
+      "day": 2,
+      "name": "День рождения Эдмунда",
+      "screenshot": "2_3.png"
+    },
+    {
+      "month": 3,
+      "day": 4,
+      "name": "День священного эксперимента",
+      "screenshot": "4_3.png"
+    },
+    {
+      "month": 3,
+      "day": 17,
+      "name": "День Святого Патрика",
+      "screenshot": "17_3.png"
+    },
+    {
+      "month": 3,
+      "day": 20,
+      "name": "День похищения инопланетянами",
+      "screenshot": "20_3.png"
+    },
+    {
+      "month": 3,
+      "day": 22,
+      "name": "День дурачка («Goof Off» Day)",
+      "screenshot": "22_3.png"
+    },
+    {
+      "month": 4,
+      "day": 1,
+      "name": "Первое апреля",
+      "screenshot": "1_4.png"
+    },
+    {
+      "month": 4,
+      "day": 10,
+      "name": "День близняшек",
+      "screenshot": "10_4.png"
+    },
+    {
+      "month": 4,
+      "day": 15,
+      "name": "Дурацкий день («That Sucks Day»)",
+      "screenshot": "15_4.png"
+    },
+    {
+      "month": 4,
+      "day": 22,
+      "name": "День желейных бобов",
+      "screenshot": "22_4.png"
+    },
+    {
+      "month": 5,
+      "day": 4,
+      "name": "День «Звёздных войн»",
+      "screenshot": "4_5.png"
+    },
+    {
+      "month": 5,
+      "day": 8,
+      "name": "День матери",
+      "screenshot": "8_5.png"
+    },
+    {
+      "month": 5,
+      "day": 13,
+      "name": "День лягушачьих прыжков и «Растопчи голод»",
+      "screenshot": "13_5.png"
+    },
+    {
+      "month": 5,
+      "day": 17,
+      "name": "День барахольщика (Pack Rat Day)",
+      "screenshot": "17_5.png"
+    },
+    {
+      "month": 5,
+      "day": 30,
+      "name": "День поминовения в США",
+      "screenshot": "30_5.png"
+    },
+    {
+      "month": 6,
+      "day": 2,
+      "name": "День бега",
+      "screenshot": "2_6.png"
+    },
+    {
+      "month": 6,
+      "day": 5,
+      "name": "День охраны окружающей среды",
+      "screenshot": "5_6.png"
+    },
+    {
+      "month": 6,
+      "day": 18,
+      "name": "День расточительства",
+      "screenshot": "18_6.png"
+    },
+    {
+      "month": 6,
+      "day": 19,
+      "name": "День отца",
+      "screenshot": "19_6.png"
+    },
+    {
+      "month": 6,
+      "day": 25,
+      "name": "День прайда",
+      "screenshot": "25_6.png"
+    },
+    {
+      "month": 7,
+      "day": 2,
+      "name": "День забывчивости (I Forgot Day)",
+      "screenshot": "2_7.png"
+    },
+    {
+      "month": 7,
+      "day": 4,
+      "name": "День независимости США",
+      "screenshot": "4_7.png"
+    },
+    {
+      "month": 7,
+      "day": 11,
+      "name": "День компоста и плакс",
+      "screenshot": "11_7.png"
+    },
+    {
+      "month": 7,
+      "day": 13,
+      "name": "День гиков",
+      "screenshot": "13_7.png"
+    },
+    {
+      "month": 8,
+      "day": 15,
+      "name": "День отдыха",
+      "screenshot": "15_8.png"
+    },
+    {
+      "month": 8,
+      "day": 16,
+      "name": "День рассказа анекдотов",
+      "screenshot": "16_8.png"
+    },
+    {
+      "month": 8,
+      "day": 22,
+      "name": "День «Будь ангелом»",
+      "screenshot": "22_8.png"
+    },
+     {
+      "month": 9,
+      "day": 5,
+      "name": "День «Опоздай куда-то»",
+      "screenshot": "5_9.png"
+    },
+    {
+      "month": 9,
+      "day": 17,
+      "name": "День запекания яблок",
+      "screenshot": "17_9.png"
+    },
+    {
+      "month": 9,
+      "day": 22,
+      "name": "День признательности слонам",
+      "screenshot": "22_9.png"
+    },
+    {
+      "month": 10,
+      "day": 6,
+      "name": "День Безумного Шляпника",
+      "screenshot": "6_10.png"
+    },
+    {
+      "month": 10,
+      "day": 7,
+      "name": "Месяц ментального здоровья",
+      "screenshot": "7_10.png"
+    },
+    {
+      "month": 10,
+      "day": 31,
+      "name": "Хэллоуин",
+      "screenshot": "31_10.png"
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "name": "День мёртвых",
+      "screenshot": "1_11.png"
+    },
+    {
+      "month": 11,
+      "day": 11,
+      "name": "День ветеранов в США",
+      "screenshot": "11_11.png"
+    },
+    {
+      "month": 11,
+      "day": 13,
+      "name": "Международный день доброты",
+      "screenshot": "13_11.png"
+    },
+    {
+      "month": 11,
+      "day": 19,
+      "name": "День «Всего наихудшего» («Have a bad day» day)",
+      "screenshot": "19_11.png"
+    }
+  ]
+}
